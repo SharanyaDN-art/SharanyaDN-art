@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm SHARANYA D.N</h1>
 <h3 align="center">🚀 Full Stack Developer | Tech Explorer | Problem Solver</h3>
 
 <p align="center">
